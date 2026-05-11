@@ -16,7 +16,6 @@
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
 [![Groq](https://img.shields.io/badge/LLM-Groq_Llama_3.3-FF6B35?style=flat-square)](https://groq.com)
 [![ChromaDB](https://img.shields.io/badge/Vector_Store-ChromaDB-FF6B6B?style=flat-square)](https://trychroma.com)
-[![License](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)](LICENSE)
 
 <br/>
 
